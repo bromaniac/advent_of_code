@@ -1,0 +1,2 @@
+cd dayX
+go build
