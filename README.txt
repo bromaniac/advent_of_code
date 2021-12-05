@@ -1,1 +1,1 @@
-Various solutions to Advent of code.
+Various solutions to Advent of Code.
