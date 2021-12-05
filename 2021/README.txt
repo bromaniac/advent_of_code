@@ -1,2 +1,3 @@
-cd dayX
-go build
+cd cmd/dayX
+go run main.go
+
